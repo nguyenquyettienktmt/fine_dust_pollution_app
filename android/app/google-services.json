@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "978504960522",
+    "firebase_url": "https://finedustpollution-f0771.firebaseio.com",
+    "project_id": "finedustpollution-f0771",
+    "storage_bucket": "finedustpollution-f0771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978504960522:android:1b2ebf4b7ad01ab1ed2df3",
+        "android_client_info": {
+          "package_name": "vn.finedustpollutionapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978504960522-scadc5mn17elutdf525rpe2l9nr1u5vr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.finedustpollutionapp.app",
+            "certificate_hash": "eb3746282d8b44172d9038798882ef6e461cbd88"
+          }
+        },
+        {
+          "client_id": "978504960522-kc10bvu56eoku0im3s2imb9pokboisbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu6nwApHvjahNta5j4QaZIBJXR4u7aaaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978504960522-kc10bvu56eoku0im3s2imb9pokboisbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978504960522:android:00f6b508b4c4cd63ed2df3",
+        "android_client_info": {
+          "package_name": "vn.finedustpollutionapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978504960522-lqdqhbhohsh0ea5au1fb6hbn2ptp1202.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.finedustpollutionapp.app",
+            "certificate_hash": "eb3746282d8b44172d9038798882ef6e461cbd88"
+          }
+        },
+        {
+          "client_id": "978504960522-kc10bvu56eoku0im3s2imb9pokboisbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu6nwApHvjahNta5j4QaZIBJXR4u7aaaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978504960522-kc10bvu56eoku0im3s2imb9pokboisbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
